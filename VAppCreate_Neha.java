@@ -41,7 +41,7 @@ import com.vmware.vim25.mo.VirtualMachine;
  * Author: Neha Viswanathan, 010029097
  * Date: 04-21-2015
  */
-public class VAppCreate_Neha {
+public class VAppCreate {
 
 	public static void main(String[] args) {
 		String ip = args[0];
